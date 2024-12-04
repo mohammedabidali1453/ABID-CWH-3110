@@ -1,0 +1,19 @@
+#Arithmetic
+a = 12
+b = 21
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a**b)
+print(a%b)
+#Comparision
+x = 10
+y = 30
+print(x == y)
+print(x >= y)
+#Logical
+print(x > 3 and x < 10)
+print(x > 3 or x < 4)
+print(not(x > 3 and x < 10))
