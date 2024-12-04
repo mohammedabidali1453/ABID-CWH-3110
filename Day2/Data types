@@ -1,0 +1,5 @@
+a = str("Hello")
+b=int(10)
+c = float(20)
+d= a+10j
+print(type(d))
